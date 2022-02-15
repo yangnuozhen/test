@@ -4,7 +4,7 @@
 
 ![alipay](/donate/alipay.jpg "支付宝")
 
-![WeChatPay](/donate/wcp.jpg "微信支付/Wechat Pay")
+![WeChatPay](/donate/wcp.png "微信支付/Wechat Pay")
 
 ---
 
